@@ -22,4 +22,4 @@ This repo is a guitar multi-effect based on Haawking HXS320F28034 DSP based on R
 * Tuner is not very accurate due to limited capacity of RAM.  
 * This project will be updated when new generation of chips with larger ram and I2S output are available.
 
-![](IMG_0380.png)
+![](/IMG_0380.jpg)
